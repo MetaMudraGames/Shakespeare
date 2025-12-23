@@ -34,6 +34,25 @@ After every major interaction, the Narrator will interrupt the simulation to sho
 * **Original Dynamic:** Protective/Controlling. Prospero puts her to sleep and manages her knowledge.
 * **Your Challenge:** Try being honest with her. How does she handle the truth about the usurpation?
 
+
+       [Original Scene]
+             │
+             ▼
+      [Player Choice]
+             │
+      ┌──────┴──────┐
+      │             │
+[User Timeline] [Canonical Timeline]
+(New Reaction)  (Original Text)
+      │             │
+      └──────┬──────┘
+             ▼
+    [Dramaturge Analysis]
+    "Here is why your choice matters..."
+             │
+             ▼
+      [Next Scene]
+
 ---
 *Ready to test the timeline? Go to `SYSTEM_INSTRUCTIONS.md`.*
 
