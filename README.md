@@ -1,3 +1,79 @@
+The Tempest: A Comparative MetaDrama 🌪️
+"We are such stuff as dreams are made on..."
+> Educational Focus: Comparative Literary Analysis & Character Motivation
+> Format: Interactive Rehearsal Simulation (Gemini Gem)
+> Status: v2.0 (The Director's Cut)
+> 
+🎭 What is this?
+The Tempest: MetaDrama is not a standard text-adventure game. It is a Comparative Literary Simulation.
+You step into the role of Prospero, the exiled Duke and sorcerer. However, you are not just playing the plot; you are testing the script.
+The AI acts as your Dramaturge/Director. It allows you to play out scenes your way, but then interrupts to compare your choices against William Shakespeare's original text. This creates a feedback loop that teaches you why the play was written the way it was.
+🧠 The Pedagogy (Why Play?)
+This tool is built on the principles of Productive Failure and Desirable Difficulties.
+Instead of passively reading the play, you must:
+ * Generate dialogue (which aids retention more than reading).
+ * Diverge from the canon (try being "Nice Prospero").
+ * Analyze the failure (understand why being "Nice" breaks the power dynamics of the scene).
+Student Learning Outcomes (SLOs)
+ * Linguistic Synthesis: Construct dialogue using Early Modern English syntax.
+ * Motivation Analysis: Articulate the psychological utility of Prospero's cruelty (e.g., maintaining authority over spirits).
+ * Narrative Design: Understand how character flaws drive plot progression.
+🎮 Game Mechanics
+1. The HUD (Heads-Up Display)
+Every scene begins with a dashboard tracking your narrative standing:
+╔═══════════════════
+║ ACT I, SCENE II
+╟────────────────
+║ MIGHT: [███░░]  <-- Your Dominance/Control (Fear)
+║ GRACE: [█░░░░]  <-- Your Empathy/Mercy (Trust)
+║ LORE:  [01/03]  <-- Insight Points (Required to unlock Acts)
+╟────────────
+║ TASK: Tame Caliban
+╚════════
+
+2. The Loop: "The Rehearsal Method"
+The game does not stop after every line. It follows a flow-based structure:
+ * Phase 1: The Scene (Flow)
+   * You roleplay as Prospero for 3-5 turns uninterrupted.
+   * The NPCs (Ariel, Caliban) react naturally to your tone.
+   * Example: If you beg Ariel, he may lose respect for you.
+ * Phase 2: The Green Room (Consolidation)
+   * The Director yells "CUT!"
+   * The AI highlights where you diverged from Shakespeare.
+   * The Socratic Debrief: You must answer a question about why the original text differs from yours.
+   * Reward: Correct analysis earns LORE points.
+ * Phase 3: The Choice
+   * Keep Take: Live with the consequences (Alternate Timeline).
+   * Reshoot: Reset the scene to try a different approach.
+⚠️ Content & Character Advisory
+You will play a "Negative" Character.
+Prospero is a colonizer, a slave-owner, and an authoritarian.
+ * Why? To learn, we must engage with "Productive Discomfort".
+ * The Goal: The simulation does not endorse Prospero's behavior. It challenges you to understand the "Moral Dissonance" of his character—the struggle between Vengeance (High MIGHT) and Virtue (High GRACE).
+ * Safety: The Narrator provides a critical distance. If the roleplay becomes too dark, the AI will break character to analyze the themes academically.
+See the MetaMudra Safety Framework for full details on consent and kill-switches.
+🚀 How to Install & Play
+This "Game" is a prompt engineering package designed for Google Gemini.
+ * Prepare:
+   * Go to Google Gemini.
+   * Critical: Turn OFF "Gemini Activity" in settings to prevent memory bleed.
+ * Build the Gem:
+   * Go to Gem Manager (or AI Studio).
+   * Create a new Gem named "Project Prospero."
+   * Copy the ENTIRE code block from SYSTEM_INSTRUCTIONS.md.
+   * Paste it into the "Instructions" field.
+ * Start:
+   * Open the Gem.
+   * Read the Consent Gate.
+   * Type I AGREE to begin.
+📂 Repository Components
+ * SYSTEM_INSTRUCTIONS.md: The source code (Prompt) driving the Comparative Engine.
+ * SCENARIO_GUIDE.md: A player handbook explaining the characters and controls.
+ * LICENSE: Apache 2.0.
+MetaMudra Games — Learning Through Challenge.
+
+
+
 # The Tempest: A Comparative MetaDrama 🌪️
 
 **"What's past is prologue."**
